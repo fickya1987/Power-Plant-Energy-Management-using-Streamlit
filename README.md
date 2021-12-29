@@ -18,7 +18,7 @@
 
 Be sure to install the required libraries, for the project to work.
 
-# There are 3 files which need to looked at:
+# There are 3 files which need to be considered:
 1. The Jupyter Notebook used to train the RandomForest and XGBoost models to train the model on the data
 2. The CCP_Management.py file. This file is where the Streamlit UI is built.
 3.  The data files: The Data_Regression.csv and PowerPlantData.csv These are available at: https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant
