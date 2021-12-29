@@ -24,7 +24,7 @@ Be sure to install the required libraries, for the project to work.
 3.  The data files: The Data_Regression.csv and PowerPlantData.csv These are available at: https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant
 4.  Finally, the models were saved as Pickle files. One for the XGBoost Regression Model, and one for the Random Forest Regressor.
 
-# I had a fun working on this project. For more information on how to use StreamLit the documentation is available on: https://docs.streamlit.io/
-# There is also a FreeCodeCamp Tutorial I used to built streamlit apps available at: https://www.youtube.com/watch?v=JwSS70SZdyM&t=587s
+##### I had a fun working on this project. For more information on how to use StreamLit the documentation is available on: https://docs.streamlit.io/
+##### There is also a FreeCodeCamp Tutorial I used to built streamlit apps available at: https://www.youtube.com/watch?v=JwSS70SZdyM&t=587s
 
-# I hope this is helpful to anyone trying to build useful web application using Python.
+##### I hope this is helpful to anyone trying to build useful web application using Python.
