@@ -3,3 +3,5 @@ plotly
 pandas
 matplotlib
 xgboost
+Scikit-Learn
+Numpy
