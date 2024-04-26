@@ -18,7 +18,7 @@ st.write("""
             
             4. Exhaust Vacuum (V) 
             
-            To predict the net hourly electrical Energy Power Output (EP) of the plant.
+            To predict the net hourly Power Electrical output (PE) of the plant.
             """) 
 
 # Load the data
