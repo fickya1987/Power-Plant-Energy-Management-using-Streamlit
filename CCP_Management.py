@@ -10,7 +10,7 @@ st.header(" Indonesia Combined Cycle Power Plant Management")
 st.write(""" 
             Features consist of hourly average:
             
-            1. Ambient variables Temperature (T), 
+            1. Ambient variables Temperature (AT), 
             
             2. Ambient Pressure (AP),
              
